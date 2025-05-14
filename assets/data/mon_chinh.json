@@ -15,7 +15,7 @@
   },
   
     {
-      "id": 4,
+      "id": 2,
       "title": "Cơm Tấm",
       "category": "Món chính",
       "ingredients": "Cơm tấm, sườn nướng, bì, chả trứng, dưa leo, cà chua, nước mắm chua ngọt",
@@ -29,7 +29,7 @@
       "cookTime": "1 giờ"
     },
     {
-      "id": 5,
+      "id": 3,
       "title": "Bún Chả",
       "category": "Món chính",
       "ingredients": "Thịt heo, bún, rau sống, dưa leo, cà rốt ngâm, nước mắm chua ngọt",
@@ -43,7 +43,7 @@
       "cookTime": "45 phút"
     },
     {
-      "id": 15,
+      "id": 4,
       "title": "Bún Riêu",
       "category": "Món chính",
       "ingredients": "Bún, cua đồng, đậu hũ, cà chua, rau sống, hành phi",
@@ -57,7 +57,7 @@
       "cookTime": "1 giờ"
     },
     {
-      "id": 23,
+      "id": 5,
       "title": "Cá Kho Tộ",
       "category": "Món chính",
       "ingredients": "Cá lóc, nước mắm, đường, tiêu",
@@ -71,7 +71,7 @@
       "cookTime": "1 giờ"
     },
     {
-      "id": 24,
+      "id": 6,
       "title": "Hủ Tiếu Heo",
       "category": "Món chính",
         "ingredients": "Thịt heo, hủ tiếu, nước dùng, rau sống",
@@ -85,7 +85,7 @@
       "cookTime": "45 phút"
     },
     {
-        "id": 25,
+        "id": 7,
         "title": "Mắm Kho",
         "category": "Món chính",
         "ingredients": "Mắm cá linh, cá lóc, thịt ba chỉ, sả, ớt, nước dừa, rau sống",
@@ -100,7 +100,7 @@
     },
 
     {
-      "id": 26,
+      "id": 8,
       "title": "Gà Rán",
       "category": "Món chính",
       "ingredients": "Gà, bột chiên giòn, gia vị, dầu ăn",
@@ -114,7 +114,7 @@
       "cookTime": "30 phút"
     },
     {
-      "id": 27,
+      "id": 9,
       "title": "Bò Nướng",
       "category": "Món chính",
       "ingredients": "Thịt bò, gia vị, rau sống, nước chấm",
@@ -128,7 +128,7 @@
       "cookTime": "30 phút"
     },
     {
-      "id": 28,
+      "id": 10,
       "title": "Gà Chiên Nước Mắm",
       "category": "Món chính",
       "ingredients": "Gà, nước mắm, tỏi, tiêu, gia vị",
@@ -142,7 +142,7 @@
       "cookTime": "1 giờ"
     },
     {
-      "id": 29,
+      "id": 11,
       "title": "Gà Nướng",
       "category": "Món chính",
       "ingredients": "Gà, gia vị, rau sống",
@@ -156,7 +156,7 @@
       "cookTime": "1 giờ"
     },
     {
-      "id": 39,
+      "id": 12,
       "title": "Phở Cuốn",
       "category": "Món chính",
       "ingredients": "Phở, thịt bò, rau sống, nước mắm",
@@ -170,7 +170,7 @@
       "cookTime": "1 giờ"
     },
     {
-      "id": 40,
+      "id": 13,
       "title": "Phở Xào",
       "category": "Món chính",
       "ingredients": "Phở, thịt bò, rau sống, nước mắm",
@@ -184,7 +184,7 @@
       "cookTime": "30 phút"
     },
     {
-      "id": 41,
+      "id": 14,
       "title": "Canh Chua Cá Basa",
       "category": "Món chính",
       "ingredients": "Cá basa, cà chua, me chua, thơm, bạc hà, giá đỗ, rau ngổ, hành, ớt, nước mắm",
@@ -198,7 +198,7 @@
       "cookTime": "25 phút"
     },
     {
-      "id": 42,
+      "id": 15,
       "title": "Hủ Tiếu Bò Kho",
       "category": "Món chính",
       "ingredients": "Hủ tiếu, bò kho, cà rốt, hành, gia vị",
@@ -212,7 +212,7 @@
       "cookTime": "60 phút"
     },
     {
-      "id": 43,
+      "id": 16,
       "title": "Hủ Tiếu Mực",
       "category": "Món chính",
       "ingredients": "Hủ tiếu, mực tươi, hành lá, giá đỗ, nước dùng",
@@ -226,7 +226,7 @@
       "cookTime": "45 phút"
     },
     {
-      "id": 44,
+      "id": 17,
       "title": "Cháo Heo",
       "category": "Món chính",
       "ingredients": "Gạo, thịt heo băm, hành lá, gia vị",
@@ -234,13 +234,13 @@
       "image": "/assets/images/dishes/chaoheo.jpg",
       "comments": [],
       "rating": 0,
-      "author": "Le Van D",
+      "author": "Phạm Thị Dung",
       "createdAt": "2025-05-14",
-      "prepTime": "10 minutes",
-      "cookTime": "40 minutes"
+      "prepTime": "10 phút",
+      "cookTime": "40 phút"
     },
     {
-      "id": 45,
+      "id": 18,
       "title": "Cháo Tôm",
       "category": "Món chính",
       "ingredients": "Gạo, tôm tươi, hành lá, gia vị",
@@ -248,9 +248,9 @@
       "image": "/assets/images/dishes/chaotom.jpg",
       "comments": [],
       "rating": 0,
-      "author": "Le Van D",
+      "author": "Nguyễn Thị Hương",
       "createdAt": "2025-05-14",
-      "prepTime": "10 minutes",
-      "cookTime": "40 minutes"
+      "prepTime": "16 phút",
+      "cookTime": "40 phút"
     }
 ]
