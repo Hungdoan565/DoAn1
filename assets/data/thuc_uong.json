@@ -1,0 +1,72 @@
+[
+    {
+      "id": 6,
+      "title": "Cà Phê Sữa Đá",
+      "category": "Thức uống",
+      "ingredients": "Cà phê, sữa đặc, đá",
+      "steps": "1. Pha cà phê phin với nước sôi, để cà phê nhỏ giọt từ từ.\n2. Thêm sữa đặc vào ly, khuấy đều với cà phê.\n3. Thêm đá viên, khuấy đều và thưởng thức.",
+      "image": "/assets/images/dishes/cf_suada.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Nguyen Thi F",
+      "createdAt": "2025-05-18",
+      "prepTime": "5 minutes",
+      "cookTime": "0 minutes"
+    },
+    {
+      "id": 7,
+      "title": "Trà Sữa",
+      "category": "Thức uống",
+      "ingredients": "Trà, sữa, đường, trân châu",
+      "steps": "1. Pha trà đen hoặc trà xanh, để nguội.\n2. Thêm sữa tươi, sữa đặc và đường, khuấy đều.\n3. Chuẩn bị trân châu, thêm vào ly trà sữa, thêm đá và thưởng thức.",
+      "image": "/assets/images/dishes/trasua.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Tran Van G",
+      "createdAt": "2025-05-19",
+      "prepTime": "10 minutes",
+      "cookTime": "0 minutes"
+    },
+    {
+      "id": 8,
+      "title": "Nước Mía",
+      "category": "Thức uống",
+      "ingredients": "Mía, đá",
+      "steps": "1. Ép mía tươi để lấy nước mía nguyên chất.\n2. Thêm đá viên vào ly nước mía.\n3. Uống ngay để cảm nhận vị ngọt mát tự nhiên.",
+      "image": "/assets/images/dishes/nuoc_mia.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Le Thi H",
+      "createdAt": "2025-05-20",
+      "prepTime": "5 minutes",
+      "cookTime": "0 minutes"
+    },
+    {
+      "id": 9,
+      "title": "Sinh Tố Bơ",
+      "category": "Thức uống",
+      "ingredients": "Bơ, sữa đặc, đá",
+      "steps": "1. Gọt vỏ bơ, lấy phần thịt bơ cho vào máy xay.\n2. Thêm sữa đặc, đá viên, xay nhuyễn.\n3. Đổ ra ly, thêm một ít sữa đặc lên trên và thưởng thức.",
+      "image": "/assets/images/dishes/sinhto_bơ.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Pham Van I",
+      "createdAt": "2025-05-21",
+      "prepTime": "10 minutes",
+      "cookTime": "0 minutes"
+    },
+    {
+      "id": 10,
+      "title": "Nước Dừa",
+      "category": "Thức uống",
+      "ingredients": "Dừa, đá",
+      "steps": "1. Khoét lỗ trên quả dừa để lấy nước dừa tươi.\n2. Thêm đá viên vào ly nước dừa.\n3. Uống ngay để cảm nhận vị ngọt mát tự nhiên.",
+      "image": "/assets/images/dishes/nuocdua.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Hoang Thi K",
+      "createdAt": "2025-05-22",
+      "prepTime": "5 minutes",
+      "cookTime": "0 minutes"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+      "id": 17,
+      "title": "Chè Bắp",
+      "category": "Món tráng miệng",
+      "ingredients": "Bắp, đường, nước cốt dừa, bột năng",
+      "steps": "1. Nấu bắp.\n2. Thêm đường và nước cốt dừa.\n3. Đun sôi và ăn.",
+      "image": "/assets/images/dishes/chebap.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Tran Van S",
+      "createdAt": "2025-05-29",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes"
+    },
+    {
+      "id": 18,
+      "title": "Bánh Flan",
+      "category": "Món tráng miệng",
+      "ingredients": "Trứng, sữa đặc, đường, vani",
+      "steps": "1. Đánh trứng với sữa đặc, đường, vani.\n2. Đổ hỗn hợp vào khuôn, hấp cách thủy đến khi chín.\n3. Để nguội, thêm caramel và thưởng thức.",
+      "image": "/assets/images/dishes/banhflan.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Le Thi T",
+      "createdAt": "2025-05-30",
+      "prepTime": "15 minutes",
+      "cookTime": "45 minutes"
+    },
+    {
+      "id": 19,
+      "title": "Kem Dừa",
+      "category": "Món tráng miệng",
+      "ingredients": "Dừa, kem, đường, vani",
+      "steps": "1. Xay dừa với kem, đường, vani.\n2. Đổ hỗn hợp vào khuôn, để đông trong tủ lạnh.\n3. Múc ra ly và thưởng thức.",
+      "image": "/assets/images/dishes/kemdua.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Pham Van U",
+      "createdAt": "2025-05-31",
+      "prepTime": "20 minutes",
+      "cookTime": "0 minutes"
+    },
+    {
+      "id": 20,
+      "title": "Bánh Trung Thu",
+      "category": "Món tráng miệng",
+      "ingredients": "Bột mì, đậu xanh, đường, trứng",
+      "steps": "1. Nhào bột mì, cán mỏng.\n2. Nhồi nhân đậu xanh, đường vào giữa bánh.\n3. Nướng bánh trong lò đến khi chín vàng.",
+      "image": "/assets/images/dishes/banhtrungthu.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Hoang Thi V",
+      "createdAt": "2025-06-01",
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour"
+    },
+    {
+      "id": 21,
+      "title": "Chè Thái",
+      "category": "Món tráng miệng",
+      "ingredients": "Nước cốt dừa, trái cây, đậu xanh, đường",
+      "steps": "1. Nấu nước cốt dừa với đường, để nguội.\n2. Thêm trái cây, đậu xanh vào nước cốt dừa.\n3. Để lạnh và thưởng thức.",
+      "image": "/assets/images/dishes/chethai.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Nguyen Van W",
+      "createdAt": "2025-06-02",
+      "prepTime": "15 minutes",
+      "cookTime": "0 minutes"
+    }
+]

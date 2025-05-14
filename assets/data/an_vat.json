@@ -1,0 +1,44 @@
+[
+    {
+      "id": 2,
+      "title": "Bánh Xèo",
+      "category": "Món ăn vặt",
+      "ingredients": "Bột gạo, tôm, giá đỗ, hành lá",
+      "steps": "1. Trộn bột gạo với nước và một ít bột nghệ để tạo màu vàng đẹp.\n2. Làm nóng chảo, thêm dầu ăn, đổ một lớp bột mỏng vào chảo.\n3. Thêm tôm, thịt, giá đỗ vào giữa bánh, đậy nắp và chiên vàng giòn.\n4. Gấp đôi bánh lại, ăn kèm rau sống và nước mắm chua ngọt.",
+      "image": "/assets/images/dishes/banhxeo.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Tran Thi B",
+      "createdAt": "2025-05-14",
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes"
+    },
+    {
+      "id": 3,
+      "title": "Gỏi Cuốn",
+      "category": "Món ăn vặt",
+      "ingredients": "Bánh tráng, tôm, thịt heo, rau sống",
+      "steps": "1. Chuẩn bị bánh tráng, nhúng qua nước để làm mềm.\n2. Xếp tôm, thịt heo, bún, rau sống lên bánh tráng.\n3. Cuốn chặt tay để tạo thành cuốn gỏi đẹp mắt.\n4. Chấm với nước mắm chua ngọt hoặc tương đậu phộng.",
+      "image": "/assets/images/dishes/goicuon.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Le Van C",
+      "createdAt": "2025-05-15",
+      "prepTime": "20 minutes",
+      "cookTime": "0 minutes"
+    },
+    {
+      "id": 11,
+      "title": "Bánh Mì",
+      "category": "Món ăn vặt",
+      "ingredients": "Bánh mì, thịt, rau sống, nước sốt",
+      "steps": "1. Nướng bánh mì cho giòn.\n2. Thêm nhân gồm thịt, pate, rau sống, dưa leo, đồ chua và nước sốt.\n3. Cuốn lại và thưởng thức ngay khi còn nóng.",
+      "image": "/assets/images/dishes/banhmi.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Nguyen Van L",
+      "createdAt": "2025-05-23",
+      "prepTime": "15 minutes",
+      "cookTime": "0 minutes"
+    }
+]

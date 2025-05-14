@@ -1,0 +1,44 @@
+[
+    {
+      "id": 14,
+      "title": "Xôi Xéo",
+      "category": "Món ăn sáng",
+      "ingredients": "Gạo nếp, đậu xanh, hành phi, dầu ăn",
+      "steps": "1. Ngâm gạo nếp, nấu chín thành xôi.\n2. Thêm đậu xanh hấp chín, hành phi và dầu ăn lên trên.\n3. Trộn đều và thưởng thức.",
+      "image": "/assets/images/dishes/xoixeo.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Pham Thi P",
+      "createdAt": "2025-05-26",
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour"
+    },
+    {
+      "id": 16,
+      "title": "Bánh Cuốn",
+      "category": "Món ăn sáng",
+      "ingredients": "Bột gạo, thịt heo, nấm, hành lá",
+      "steps": "1. Pha bột gạo, tráng mỏng trên chảo nóng để làm bánh cuốn.\n2. Thêm nhân thịt heo, nấm xào vào giữa bánh.\n3. Cuốn lại, ăn kèm nước mắm chua ngọt và rau sống.",
+      "image": "/assets/images/dishes/banhcuon.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Nguyen Thi R",
+      "createdAt": "2025-05-28",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes"
+    },
+    {
+      "id": 22,
+      "title": "Bánh Bao",
+      "category": "Món ăn sáng",
+      "ingredients": "Bột mì, thịt heo, trứng, nấm",
+      "steps": "1. Nhào bột mì với nước, để nghỉ.\n2. Làm nhân từ thịt heo, trứng, nấm xào.\n3. Gói nhân vào bột, hấp chín và thưởng thức.",
+      "image": "/assets/images/dishes/banhbao.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Tran Van S",
+      "createdAt": "2025-05-29",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes"
+    }
+]
