@@ -224,5 +224,33 @@
       "createdAt": "2025-05-14",
       "prepTime": "15 phút",
       "cookTime": "45 phút"
+    },
+    {
+      "id": 44,
+      "title": "Cháo Heo",
+      "category": "Món chính",
+      "ingredients": "Gạo, thịt heo băm, hành lá, gia vị",
+      "steps": "1. Vo gạo, nấu với nước đến khi mềm thành cháo.\n2. Xào thịt heo với gia vị cho thấm.\n3. Cho thịt vào nồi cháo, nêm nếm lại và thêm hành lá.",
+      "image": "/assets/images/dishes/chaoheo.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Le Van D",
+      "createdAt": "2025-05-14",
+      "prepTime": "10 minutes",
+      "cookTime": "40 minutes"
+    },
+    {
+      "id": 45,
+      "title": "Cháo Tôm",
+      "category": "Món chính",
+      "ingredients": "Gạo, tôm tươi, hành lá, gia vị",
+      "steps": "1. Vo gạo, nấu với nước đến khi mềm thành cháo.\n2. Xào tôm với gia vị cho thấm.\n3. Cho tôm vào nồi cháo, nêm nếm lại và thêm hành lá.",
+      "image": "/assets/images/dishes/chaotom.jpg",
+      "comments": [],
+      "rating": 0,
+      "author": "Le Van D",
+      "createdAt": "2025-05-14",
+      "prepTime": "10 minutes",
+      "cookTime": "40 minutes"
     }
 ]

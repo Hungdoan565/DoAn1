@@ -1,6 +1,6 @@
 [
   {
-    "id": 6,
+    "id": 39,
     "title": "Cà Phê Sữa Đá",
     "category": "Thức uống",
     "ingredients": "Cà phê, sữa đặc, đá",
@@ -14,7 +14,7 @@
     "cookTime": "10 phút"
   },
   {
-    "id": 7,
+    "id": 40,
     "title": "Trà Sữa",
     "category": "Thức uống",
     "ingredients": "Trà, sữa, đường, trân châu",
@@ -28,7 +28,7 @@
     "cookTime": "7 phút"
   },
   {
-    "id": 8,
+    "id": 41,
     "title": "Nước Mía",
     "category": "Thức uống",
     "ingredients": "Mía, đá",
@@ -42,7 +42,7 @@
     "cookTime": "8 phút"
   },
   {
-    "id": 9,
+    "id": 42,
     "title": "Sinh Tố Bơ",
     "category": "Thức uống",
     "ingredients": "Bơ, sữa đặc, đá",
@@ -56,7 +56,7 @@
     "cookTime": "12 phút"
   },
   {
-    "id": 10,
+    "id": 43,
     "title": "Nước Dừa",
     "category": "Thức uống",
     "ingredients": "Dừa, đá",
@@ -70,7 +70,7 @@
     "cookTime": "3 phút"
   },
   {
-    "id": 31,
+    "id": 44,
     "title": "Nước Chanh Mật Ong",
     "category": "Thức uống",
     "ingredients": "Chanh, đường, nước, mật ong",
@@ -84,7 +84,7 @@
     "cookTime": "8 phút"
   },
   {
-    "id": 32,
+    "id": 45,
     "title": "Nước Dưa Hấu",
     "category": "Thức uống",
     "ingredients": "Dưa hấu, đường, đá",
@@ -98,7 +98,7 @@
     "cookTime": "10 phút"
   },
   {
-    "id": 33,
+    "id": 46,
     "title": "Nước Cam",
     "category": "Thức uống",
     "ingredients": "Cam, đường, đá",
