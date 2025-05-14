@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cộng Đồng Món Ngon - Khám phá ẩm thực</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="stylesheet" href="/assets/css/index.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-transparent fixed-top">
+      <div class="container">
+        <a class="navbar-brand text-orange" href="/index.html">
+          <img src="/assets/images/logo.png" height="40" class="me-2" />
+          Cộng Đồng Món Ngon
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link text-dark" href="/index.html">Trang chủ</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-dark" href="/pages/recipes/list.html"
+                >Công thức</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-dark" href="/pages/blog.html">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-dark" href="/pages/about.html"
+                >Về chúng tôi</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link text-dark"
+                href="/pages/auth/login.html"
+                id="loginBtn"
+                >Đăng nhập</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link btn btn-warning text-white"
+                href="/pages/user/add-recipe.html"
+                id="addRecipeBtn"
+                style="display: none"
+                >Thêm công thức</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section
+      class="hero-section text-white text-center d-flex align-items-center"
+      style="
+        background: linear-gradient(135deg, #f4a261, #e76f51),
+          url('/assets/images/dishes/phở.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 700px;
+      "
+    >
+      <div class="container">
+        <h1 class="display-3 fw-bold">Thưởng thức hương vị tuyệt vời!</h1>
+        <p class="lead mb-4">
+          Khám phá những công thức độc đáo từ khắp mọi miền Việt Nam <br />
+          Tinh hoa ẩm thực Việt.
+        </p>
+        <div class="search-bar mx-auto mt-4">
+          <div class="input-group">
+            <input
+              type="text"
+              id="searchInput"
+              class="form-control rounded-pill"
+              placeholder="Tìm công thức yêu thích..."
+            />
+            <button
+              class="btn btn-warning rounded-pill ms-2 text-white"
+              onclick="searchDishes()"
+            >
+              Tìm kiếm
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Dishes Section -->
+    <section class="featured-dishes py-5">
+      <div class="container">
+        <h2 class="text-center mb-4 text-orange">Công thức nổi bật</h2>
+        <p class="text-center mb-5 text-muted">
+          Những món ăn được yêu thích nhất từ cộng đồng.
+        </p>
+        <div class="row" id="featuredDishes"></div>
+      </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="categories py-5 bg-light">
+      <div class="container">
+        <h2 class="text-center mb-4 text-orange">Danh mục</h2>
+        <div class="row" id="categoryList"></div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer text-center py-4 bg-dark text-white">
+      <div class="container">
+        <p>© 2025 Culinary Connect. All rights reserved.</p>
+        <ul class="list-inline">
+          <li class="list-inline-item">
+            <a href="/pages/about.html" class="text-white">Về chúng tôi</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="/pages/blog.html" class="text-white">Blog</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#" class="text-white">Liên hệ</a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/main-dishes-filter.js"></script>
+    <script src="/assets/js/desserts-filter.js"></script>
+    <script src="/assets/js/beverages-filter.js"></script>
+    <script src="/assets/js/breakfast-filter.js"></script>
+    <script src="/assets/js/snacks-filter.js"></script>
+  </body>
+</html>
